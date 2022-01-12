@@ -87,7 +87,10 @@ All of the following SSDT's have been manually compiled by me such that they imp
 - [ ] HDMI
 
 For Networking with USB WIFI Dongle use this driver -- 
+(https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter)
 
+
+## This OpenCore EFI is full-fleged, I haven't removed a single thing from it  Even the OpenCore boot menu is GUI with mouse support
 
 ## CREDITS
 
