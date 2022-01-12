@@ -53,7 +53,7 @@ All of the following SSDT's have been manually compiled by me such that they imp
 | SSDT-PNLF             | Backlight fix                  |
 | SSDT-EC-USBX          | USBX patch                     |
 | SSDT-RTC0             | RTC patch (Super necessary to boot this specific model) |
-| SSDT-SBUS-MCHC        | RTC patch                      |
+| SSDT-SBUS-MCHC        | Fixing SMBus support           |
 ## Status
 
 ### Working
